@@ -1,4 +1,13 @@
 
+BRD  (business requirement documents)
+ERD  (Entity relationship diagram)
+Swagger (Documents + Test)
+Debug_Toolbar
+Logger (işlem geçmişimizi tutmaya yarayan bir tool)
+PostgreSQL (i projemize nasıl bağlarızı yaptık)
+dev-prod env (development(dev.py) ve production(prod.py) ortamlarını ayırdık ve her ikisi için ortakmolanla ayarları base .py kısmına koyduk.)
+
+
 PROJECT_PLAN
 
 - Flight
