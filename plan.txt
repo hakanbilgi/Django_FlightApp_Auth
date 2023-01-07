@@ -7,6 +7,11 @@ Logger (işlem geçmişimizi tutmaya yarayan bir tool)
 PostgreSQL (i projemize nasıl bağlarızı yaptık)
 dev-prod env (development(dev.py) ve production(prod.py) ortamlarını ayırdık ve her ikisi için ortakmolanla ayarları base .py kısmına koyduk.)
 
+# login / logout --- dj-rest-auth
+# register (serializer - view - urU)
+
+# generate token with signals and return token in registration
+# return user data in login
 
 PROJECT_PLAN
 
