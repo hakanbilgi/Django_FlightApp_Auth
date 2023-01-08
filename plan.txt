@@ -22,7 +22,7 @@ PROJECT_PLAN
 # FLIGHT
 
     - Client_users
-        - views upcoming fligts
+        - views upcoming flights
 
     - Staff members
         - views all flight with reservations
@@ -34,4 +34,4 @@ PROJECT_PLAN
         - crud reservation (their own reservations)
     
     - Staff members
-        crud reservations (all reservartions)
+        crud reservations (all reservations)
