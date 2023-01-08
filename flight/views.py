@@ -10,6 +10,7 @@ from datetime import datetime, date
 class FlightView(viewsets.ModelViewSet):
     queryset = Flight.objects.all()
     serializer_class = FlightSerializer
+    # permission_classes = (IsAdminUser,)
     permission_classes = (IsStafforReadOnly,)
     
     def get_serializer_class(self):
