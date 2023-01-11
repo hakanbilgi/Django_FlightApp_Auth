@@ -27,7 +27,7 @@ class FlightTestCase(APITestCase):
         )
         self.user = User.objects.create_user(
             username='admin',
-            password='Aa654321*'
+            password='dilruba.83'
         )
         self.token = Token.objects.get(user=self.user)
 
